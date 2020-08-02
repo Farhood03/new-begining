@@ -1,0 +1,10 @@
+<DOCTYPE html>
+<html>
+<body style="background-color:powderblue;">
+<a href="https://gamefa.com">مجله سرگرمی بازی ها</a>
+<h1>آغازی نو</h1>
+<p style="color:red">.برای اولین بار دارم چیز جدیدی رو تجربه میکنم که بهم فهموند خلق یک همچین چیزی چه لذتی داره</p>
+<img src="f.jpg"
+width="256" height"480">
+</body>
+</html>
